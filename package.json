@@ -1,5 +1,8 @@
 {
   "name": "@belsrc/match",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.0",
   "description": "Simple match function",
   "main": "src/index.js",
