@@ -1,5 +1,5 @@
 {
-  "name": "match",
+  "name": "@belsrc/match",
   "version": "0.1.0",
   "description": "Simple match function",
   "main": "src/index.js",
