@@ -28,7 +28,8 @@
   "jest": {
     "coverageDirectory": "coverage",
     "testPathIgnorePatterns": [
-      "/node_modules/"
+      "/node_modules/",
+      "/dist"
     ],
     "testEnvironment": "jsdom"
   },
